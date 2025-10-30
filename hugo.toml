@@ -1,0 +1,8 @@
+baseURL = 'https://blog.hajmousa.ir'
+languageCode = 'en-us'
+title = "HajMousa's Development blog"
+theme = 'PaperMod'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

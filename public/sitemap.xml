@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://blog.hajmousa.ir/</loc>
+    <lastmod>2025-10-30T17:17:11+03:30</lastmod>
+  </url><url>
+    <loc>https://blog.hajmousa.ir/posts/</loc>
+    <lastmod>2025-10-30T17:17:11+03:30</lastmod>
+  </url><url>
+    <loc>https://blog.hajmousa.ir/categories/</loc>
+  </url><url>
+    <loc>https://blog.hajmousa.ir/tags/</loc>
+  </url>
+</urlset>
